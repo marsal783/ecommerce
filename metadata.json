@@ -1,0 +1,6 @@
+{
+  "name": "e-hakim Katalog Produk",
+  "description": "Katalog produk dan etalase digital UMKM Dapur Bu Ratna dengan pemesanan via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
